@@ -1,21 +1,19 @@
-# 📦 Tugas Deployment Perangkat Lunak
+# Tugas Deployment Perangkat Lunak
 
-## 👩‍💻 Identitas
+## Identitas
 
 * **Nama**: Fina Novita Ramadhani
 * **NIM**: 20230140169
 
-## 📸 Screenshot Hasil
+## Screenshot Hasil
 
-### 1. Halaman image docker desktop (setelah push image project dan pull image dari
-teman)
+### 1. Halaman image docker desktop (setelah push image project dan pull image dari teman)
 
 <img width="1905" height="1008" alt="Cuplikan layar 2026-04-15 154234" src="https://github.com/user-attachments/assets/375c9fc1-763c-4a3b-b849-0e3ffef9e46f" />
 
 ---
 
-### 2. Halaman container docker desktop (setelah membuat container dari image dari
-teman)
+### 2. Halaman container docker desktop (setelah membuat container dari image dari teman)
 
 <img width="1910" height="994" alt="Cuplikan layar 2026-04-15 154305" src="https://github.com/user-attachments/assets/ec659498-1cda-4bd4-86b8-0d88ace258d5" />
 
